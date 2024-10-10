@@ -1,0 +1,104 @@
+.name{
+    display: block;
+    margin-bottom: 5px;
+}
+.text8b{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.button8b{
+    cursor: pointer;
+}
+.img8c{
+    width: 300px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    display: block;
+}
+.texte{
+    font-size: 13px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+    margin-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 300px;
+    margin-left: 250px;
+}
+.name8d{
+    width: 95px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    border-style: solid;
+    border-color: rgb(193, 193, 193);
+    border-width: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    font-size: 14px;
+}
+.email8d{
+    display: block;
+    width: 211px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    border-style: solid;
+    border-color: rgb(193, 193, 193);
+    border-width: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    font-size: 14px;
+}
+.button8d{
+    display: block;
+    color: white;
+    background-color: rgb(58, 148, 226);
+    border-radius: 7px;
+    border: none;
+    width: 229px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.title8e{
+    font-family: roboto;
+    font-size: 25px;
+}
+.text8e{
+    display: block;
+    font-family: roboto;
+    font-size: 11px;
+    width: 230px;
+    margin-bottom: 5px;
+    border: none;
+    background-color: rgb(235, 235, 235);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    color: rgb(112, 111, 111);
+}
+.now8e{
+    margin-bottom: 200px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 10px;
+}
+.later8e{
+    background-color: rgb(235, 235, 235);
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}

@@ -1,0 +1,67 @@
+.amazon{
+    color: rgb(0, 113, 133);
+    transition: color 0.15s;
+  }
+  .amazon:hover{
+    color: rgb(176, 112, 2);
+  }
+.name{
+  font-weight: bold;
+  font-size: 25px;
+}
+.price{
+  font-weight: bold;
+  color: rgb(0, 118, 0);
+}
+.cart{
+  height: 28px;
+  background-color: rgb(255,216,20);
+  border-radius: 14px;
+  border: none;
+  width: 90px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: background-color 0.15s, opacity 0.15s;
+}
+.cart:hover{
+  background-color: rgb(220, 187, 20);
+}
+.cart:active{
+  opacity: 0.5;
+}
+.buy{
+  height: 28px;
+  width: 90px;
+  border: none;
+  border-radius: 14px;
+  background-color: rgb(255,164,28);
+  cursor: pointer;
+  transition: background-color 0.15s, opacity 0.15s;
+}
+.buy:hover{
+  background-color: rgb(205, 133, 25);
+}
+.buy:active{
+  opacity: 0.5;
+}
+.b1{
+  background-color: rgb(232, 232, 232);
+  border-color: rgb(146, 146, 146);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.b2{
+  background-color: rgb(232, 232, 232);
+  border-color: rgb(146, 146, 146);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+a{ 
+  margin-left: 5px;
+}

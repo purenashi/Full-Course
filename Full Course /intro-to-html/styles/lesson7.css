@@ -1,0 +1,104 @@
+
+text{
+    font-family: roboto;
+}
+.cata{
+    width: 200px;
+    border-radius: 25px;
+}
+.catb{
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+    object-position: bottom;
+}
+.catc{
+    width: 200px;
+    border-radius: 100px;
+}
+.textd{
+    border-radius: 10px;
+    border: solid;
+    border-color: rgb(200, 200, 200);
+    border-width: 1px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.texte{
+    font-size: 13px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+    margin-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+}
+.textf{
+    margin-bottom: 10px;
+    font-family: roboto;
+    color: gray;
+    font-size: 19px;
+    
+}
+.boxf{
+    border-width: 1px;
+    border-radius: 5px;
+    border: solid;
+    border-color: rgb(100, 100, 100);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 310px;
+    margin-bottom: 15px;
+}
+.agreef{
+    font-family: roboto;
+    font-size: 25px;
+    color: white;
+    background-color: rgb(54, 133, 207);
+    padding-left: 166px;
+    padding-right: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 150px;
+    border: none;
+    border-radius: 100px;
+}
+.catg{
+    width: 70px;
+    border-radius: 70px;
+    vertical-align: middle;
+    margin-left: 0px;
+}
+.textg{
+    border: none;
+    margin-left: 10px;
+    font-size: 25px;
+    width: 300px;
+    margin-right: 0;
+    padding-right: 100px;
+    vertical-align: middle;
+}
+.buttong{
+    vertical-align: middle;
+    color: white;
+    background-color: rgb(97, 184, 242);
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 55px;
+    margin-left: 0px;
+    border: none;
+}

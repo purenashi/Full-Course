@@ -1,0 +1,177 @@
+
+  .subscribe-button{
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    
+
+  }
+  .subscribe-button:hover{
+    opacity: 0.8;
+  }
+  .subscribe-button:active{
+    opacity: 0.4;
+  }
+  
+  .join-button{
+    background-color: white;
+    border-color: rgb(41, 118, 211);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(41, 118, 211);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+  }
+  .join-button:hover{
+   background-color: rgb(41, 118, 211); 
+   color: white;
+  }
+  .join-button:active{
+    opacity: 0.7;
+  }
+  .tweet-button{
+    background-color: rgb(4, 156, 233);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 8px;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+  }
+  .tweet-button:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+  .stretch{
+    background-color: green;
+    border: none;
+    color: white;
+    transition: padding 0.15s;
+    cursor: pointer;
+    margin-bottom: 0px;
+  }
+  .stretch:hover{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+  }
+  .tresd{
+    background-color: green;
+    color: white;
+    border: none;
+    box-shadow: 1px 1px 3px grey;
+    cursor: pointer;
+    transition: 0.15s;
+    margin-top: 0px;
+  }
+  .tresd:active{
+    box-shadow: none;
+  }
+  .numb{
+    background-color: green;
+    color: white;
+    padding-left: 10px;
+    border: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  .numb:hover{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+
+
+  .cincoa{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  }
+  .cincob{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 200px;
+    line-height: 18px;
+  }
+  .sales{
+    font-weight: lighter;
+    color: red;
+    font-style: italic;
+    font-size: 11px;
+    margin-bottom: 30px;
+  }
+  .cincoc-title{
+    width: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .cincoc-sub{
+    font-weight: lighter;
+    font-size: 12px;
+    color: gray;
+  }
+  .cincoc-text{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 230px;
+  }
+  .cincoc-button{
+    background-color: rgb(54, 153, 0);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 11px;
+    padding-right: 11px;
+  }
+  .cincod-title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
+  .cincod-text{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    margin-bottom: 12px;
+  }
+  .cincod-link{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(81, 125, 213);
+    font-size: 11px;
+    cursor: pointer;
+  }
+  .cincod-link:hover{
+    text-decoration: underline;
+  }
+
